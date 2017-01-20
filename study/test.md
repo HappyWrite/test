@@ -5,14 +5,19 @@
 
 
 
-<Directory /asdfasdfads/fdsaf*>
+```xml
+<Directory>
 
     AllowOverwrite on
     <Limit ALL>
         AllowUser adfasdfasdf
         AllowAll
     </Limit>
+
 </Directory>
+```
+
+
 
 ## 图片
 
